@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying, but open to work
 - 📫 You can find me as @nachogarez in multiple platforms
-- 🔧 Languages: Java, Python, C, C++, Machine, Prolog, Haskell, VHDL, MATLAB.
+- 🔧 Languages: Java, Python, C, C++, Assembly, Prolog, Haskell, VHDL, MATLAB.
 - 🧰 Tools: Visual Studio, Visual Studio Code, Eclipse, Xcode, Wireshark, Matlab, Spyder...
 - 🖥️ OS: MacOS, Windows and Linux
 
