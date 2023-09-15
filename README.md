@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cS7AhVMWcA8PHBs9Vx/giphy-downsized-large.gif" />
+  <img src="https://media.giphy.com/media/cS7AhVMWcA8PHBs9Vx/giphy-downsized.gif" />
   <h1 align="center"> Hi 👋🏼, I'm Nacho García</h1>
   <h3 align="center"> I'm a computer engineering student from Asturias, Spain. I'm eager to advance my career, expand my knowledge, and gain experience.</h3>
 </div>
