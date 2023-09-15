@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="300"/>
   <h1 align="center"> Hi 👋🏼, I'm Nacho García</h1>
