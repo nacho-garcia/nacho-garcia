@@ -1,6 +1,6 @@
-### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="200" />
+  <h1 align="center"> Hi 👋🏼, I'm Nacho García</h1>
 </div>
 <!--
 **nacho-garcia/nacho-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
