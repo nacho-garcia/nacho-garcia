@@ -13,6 +13,6 @@
 - 🔧 Languages: Java, Python, C, C++, Assembly, Prolog, Haskell, VHDL, MATLAB.
 - 🧰 Tools: Visual Studio, Visual Studio Code, Eclipse, Xcode, Wireshark, Matlab, Spyder...
 - 🖥️ OS: MacOS, Windows and Linux.
-- 💭 You can ask me anything here: nachogarciarodriguez@outlook.com
+- 💭 You can ask me anything here: nachogarcia.correo@gmail.com
 
 - - -
